@@ -37,5 +37,5 @@ void loop() {
   lcd.print(" Hz     "); // Extra spaces to clear previous characters
 
   // Optional: Add a short delay between measurements
-  delay(100);
+  delay(200);
 }
